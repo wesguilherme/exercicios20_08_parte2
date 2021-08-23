@@ -81,7 +81,7 @@ public class Main {
         Scanner keyPad = new Scanner(System.in);
         int i, j = 0, k = 0, l = 0, m = 0, n = 0;
         String da, db, dc;
-        for (i = 0; i < 4; ++i) {
+        for (i = 0; i < 50; ++i) {
             System.out.println("Vc é assinante do Diário A? (y) para Sim, (n) para não");
             da = keyPad.next();
             System.out.println("Vc é assinante do Diário B? (y) para Sim, (n) para não");
